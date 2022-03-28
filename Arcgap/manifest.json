@@ -1,0 +1,11 @@
+﻿{
+    "id": "Arcgap",
+    "name": "Arcgap",
+    "author": "Kinsi55",
+    "version": "0.0.69",
+    "description": "Fixes game softlock / crash on 1.20+",
+    "gameVersion": "1.20.0",
+    "dependsOn": {
+        "BSIPA": "^4.0.5"
+    }
+}
